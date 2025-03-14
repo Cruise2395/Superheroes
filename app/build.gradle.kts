@@ -36,6 +36,12 @@ android {
 }
 
 dependencies {
+    //librerias de retrofit
+    implementation(libs.retrofit)
+    implementation(libs.converter.gson)
+
+    //libreria picasso
+    implementation (libs.picasso)
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)

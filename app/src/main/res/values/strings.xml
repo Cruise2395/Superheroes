@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">superheroes</string>
+    <string name="app_name">Search</string>
+
+    <string name="app_name">Search</string>
+    <string name="action_search"></string>
+
 </resources>
